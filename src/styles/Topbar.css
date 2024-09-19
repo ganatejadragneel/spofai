@@ -1,0 +1,9 @@
+.topbar-container {
+    height: 10vh;
+    background-color: var(--background-base);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }

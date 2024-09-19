@@ -1,0 +1,8 @@
+.sidebar-container {
+    width: 20%;
+    height: 85vh;
+    background-color: var(--background-highlight);
+    position: fixed;
+    top: 10vh;
+    left: 0;
+  }

@@ -1,0 +1,25 @@
+:root {
+    --background-base: #1E073C;
+    --background-highlight: #290A50;
+    --background-press: #07020E;
+    --background-elevated-base: #400073;
+    --background-elevated-highlight: #8C20DF;
+    --background-elevated-press: #3C0068;
+    --background-tinted-base: #0F041D;
+    --background-tinted-highlight: #551E99;
+    --background-tinted-press: #A269CF;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
